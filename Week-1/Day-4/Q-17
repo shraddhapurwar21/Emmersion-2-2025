@@ -1,0 +1,17 @@
+public class Q17 {
+    public static void main(String[] args) {
+        int x = 7, y = 2;
+        if (x > y && y < 3)
+            System.out.println("Q17: Inside");
+        else
+            System.out.println("Q17: Outside");
+    }
+}
+/*
+Options:
+a) Inside
+b) Outside
+c) (no output)
+d) Error
+Correct Answer: a
+*/
