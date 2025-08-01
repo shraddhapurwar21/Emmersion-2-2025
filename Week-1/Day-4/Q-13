@@ -1,0 +1,16 @@
+public class Q13 {
+    public static void main(String[] args) {
+        int x = 10, y = 4;
+        int z = x * (x - y) % y / x;
+        System.out.println("Q13: " + z);
+    }
+}
+/*
+Options:
+a) 4
+b) 6
+c) 10
+d) 0
+Correct Answer: d
+*/
+
