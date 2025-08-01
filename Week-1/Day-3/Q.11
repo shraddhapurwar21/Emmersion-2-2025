@@ -1,0 +1,15 @@
+public class Q11 {
+    public static void main(String[] args) {
+        int x = 5, y = 3;
+        int z = x + y * x - 2;
+        System.out.println("Q11: " + z);
+    }
+}
+/*
+Options:
+a) 18
+b) 23
+c) 15
+d) 28
+Correct Answer: a
+*/
