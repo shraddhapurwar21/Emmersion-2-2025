@@ -1,0 +1,17 @@
+public class Q16 {
+    public static void main(String[] args) {
+        int a = 4, b = 9;
+        if (a < 5 || b > 10)
+            System.out.println("Q16: Yes");
+        else
+            System.out.println("Q16: No");
+    }
+}
+/*
+Options:
+a) Yes
+b) No
+c) (no output)
+d) Error
+Correct Answer: a
+*/
