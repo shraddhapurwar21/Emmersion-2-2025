@@ -1,0 +1,17 @@
+public class Q20 {
+    public static void main(String[] args) {
+        int a = 5, b = 2;
+        if ((a > 3 && b < 3) || (a - b > 1))
+            System.out.println("Q20: True");
+        else
+            System.out.println("Q20: False");
+    }
+}
+/*
+Options:
+a) True
+b) False
+c) (no output)
+d) Error
+Correct Answer: a
+*/
