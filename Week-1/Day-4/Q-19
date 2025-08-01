@@ -1,0 +1,17 @@
+public class Q19 {
+    public static void main(String[] args) {
+        int x = 0;
+        if (!(x != 0))
+            System.out.println("Q19: Zero");
+        else
+            System.out.println("Q19: Non-zero");
+    }
+}
+/*
+Options:
+a) Zero
+b) Non-zero
+c) (no output)
+d) Error
+Correct Answer: a
+*/
