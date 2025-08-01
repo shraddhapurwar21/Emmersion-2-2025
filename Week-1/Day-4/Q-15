@@ -1,0 +1,15 @@
+public class Q15 {
+    public static void main(String[] args) {
+        int x = 8, y = 3;
+        int z = x % y * 2;
+        System.out.println("Q15: " + z);
+    }
+}
+/*
+Options:
+a) 2
+b) 4
+c) 6
+d) 8
+Correct Answer: b
+*/
