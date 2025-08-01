@@ -1,0 +1,15 @@
+public class Q12 {
+    public static void main(String[] args) {
+        int x = 11, y = 4;
+        int result = (x - y + 121) % x;
+        System.out.println("Q12: " + result);
+    }
+}
+/*
+Options:
+a) 5
+b) 6
+c) 7
+d) 8
+Correct Answer: c
+*/
