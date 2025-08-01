@@ -1,0 +1,15 @@
+public class Q14 {
+    public static void main(String[] args) {
+        int a = 2, b = 5;
+        int c = (a + b) * (b - a);
+        System.out.println("Q14: " + c);
+    }
+}
+/*
+Options:
+a) 21
+b) 10
+c) 7
+d) 14
+Correct Answer: a
+*/
