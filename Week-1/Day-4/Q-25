@@ -1,0 +1,15 @@
+public class Q25 {
+    public static void main(String[] args) {
+        int a = 4, b = 6;
+        int c = (a | b) >> 1;
+        System.out.println("Q25: " + c);
+    }
+}
+/*
+Options:
+a) 5
+b) 3
+c) 2
+d) 1
+Correct Answer: b
+*/
