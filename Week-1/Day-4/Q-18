@@ -1,0 +1,17 @@
+public class Q18 {
+    public static void main(String[] args) {
+        int x = 5, y = 10;
+        if (x > 0 || y < 5)
+            System.out.println("Q18: Case1");
+        else
+            System.out.println("Q18: Case2");
+    }
+}
+/*
+Options:
+a) AND
+b) OR
+c) XOR
+d) NOT
+Correct Answer: b
+*/
